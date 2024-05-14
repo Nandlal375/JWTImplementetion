@@ -10,6 +10,8 @@ namespace JWTImplementetion.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
+
+    //Nandlal prasad
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeServices _employeeServices;
