@@ -11,7 +11,7 @@ namespace JWTImplementetion.Controllers
     [ApiController]
     [Authorize]
 
-    //Nandlal prasad
+    //Nandlal prasad deeepak kumar
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeServices _employeeServices;
